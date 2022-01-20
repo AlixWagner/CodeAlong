@@ -853,7 +853,7 @@ main section {
   background-image: url(../assets/wave-3.svg);
   background-color: #fff5f5;
   background-position: top center;
-  background-size: 1500px 60px;
+  background-size: 100% 60px;
   background-repeat: repeat-x;
   position: absolute;
   left: 0;
